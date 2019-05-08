@@ -2,7 +2,7 @@
 A project to cluster 2130 cannabis strains based on their user-reported flavour, effect, and medical use data
 Information primarily acquired via webscraping (Leafly.com)
 
-# strain_clustering.pdf
+## strain_clustering.pdf
 An overview of the project and its key results
 
 ## Clustering Results
