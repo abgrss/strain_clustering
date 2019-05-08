@@ -1,8 +1,9 @@
-# strain_clustering
+# Cannabis strain clustering project
 A project to cluster 2130 cannabis strains based on their user-reported flavour, effect, and medical use data
 Information primarily acquired via webscraping (Leafly.com)
 
-A PDF overview of the project and its key results can be foud in #### strain_clustering.pdf
+# strain_clustering.pdf
+An overview of the project and its key results
 
 ## Clustering Results
 See clustering anaylsis in "3.2. Hierarchical clustering (best model)" for latest results
